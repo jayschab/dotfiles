@@ -1,0 +1,9 @@
+[user]
+  email = jared@vemos.com.br
+  name = Jared Schaber
+[alias]
+  lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+[diff]
+  tool = vimdiff
+[grep]
+  lineNumber = true
